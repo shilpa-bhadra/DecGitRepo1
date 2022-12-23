@@ -8,6 +8,7 @@ public class TestDemo1 {
 		System.out.println("TestDemo1 is the changed code");
 		System.out.println(" changed code");
 		System.out.println(" code");
+		System.out.println(" third commit ");
 	}
 	
 	
